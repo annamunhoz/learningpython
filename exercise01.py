@@ -10,7 +10,7 @@ second_number = float(input())
 print("Choose the basic arithmetic: type SUM for sum or SUB for subtraction")
 arithmetic = str(input())
 
-if arithmetic == str("SUM"):
+if arithmetic == "SUM":
     print(first_number + second_number)
 
 else:
