@@ -8,7 +8,7 @@ print("Submit your second number")
 second_number = float(input())
 
 print("Choose the basic arithmetic: type SUM for sum or SUB for subtraction")
-arithmetic = str(input())
+arithmetic = input()
 
 if arithmetic == "SUM":
     print(first_number + second_number)
