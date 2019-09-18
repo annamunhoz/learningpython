@@ -5,7 +5,9 @@ The goal is to learn programing without those boring and silly examples. The fir
 
 All exercises are proposed by my husband (@vmunhoz) and/or my cousin (@FerJSSilva). They are programers since I know them.
 
+## Exercises:
 **Exercise 01:** create a python program that takes 2 values and then select between sum and sub. Show the result.
+
 **Exercise 02:** like the exercise 01, but adding multiplication and division. Must be used a function with 3 values: number 1, number 2 and the arithmetic. List the possibles arithmetics (a letter to each one). You can not use else. The function can have any number of returns needed. Show a error message if the arithmetic doesn't exist.
 
 Let's have fun and learn!
