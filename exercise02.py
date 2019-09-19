@@ -18,7 +18,7 @@ print("Choose the arithmetic:"
 "D to division")
 arithmetic = input().upper()
 
-def math(first_number,second_number,arithmetic):
+def do_math(first_number,second_number,arithmetic):
 # To do the math with the inputs given by the user and/or to show the error message
 
     if arithmetic == "A":
@@ -35,5 +35,5 @@ def math(first_number,second_number,arithmetic):
 
     return "Ops! The input letter wasn't recognized. Please try again."
 
-result = math(first_number,second_number,arithmetic)
+result = do_math(first_number,second_number,arithmetic)
 print(result)
