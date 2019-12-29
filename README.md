@@ -3,7 +3,7 @@
 
 The goal is to learn programing without those boring and silly examples. The first time I opened an IDE was in July/2019. The ultimate goal is to be able to create web apps on my own until the end of 2019.
 
-All exercises are proposed by my husband (@vmunhoz) and/or my cousin (@FerJSSilva). They are programers since I know them.
+All exercises are proposed by my husband (@vmunhoz), my cousin (@FerJSSilva) and/or @ICTman1076.
 
 ## Exercises:
 **Exercise 01:** create a python program that takes 2 values and then select between sum and sub. Show the result.
