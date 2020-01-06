@@ -1,9 +1,10 @@
 # Learning Python
 *A few exercises to learn Python in a fun way!*
 
-The goal is to learn programing without those boring and silly examples. The first time I opened an IDE was in July/2019. The ultimate goal is to be able to create web apps on my own until the end of 2019.
-
-All exercises are proposed by my husband (@vmunhoz), my cousin (@FerJSSilva) and/or @ICTman1076.
+#### Exercises proposed by:
+* @[vmunhoz](https://github.com/vmunhoz)
+* @[FerJSSilva](https://github.com/FerJSSilva)
+* @[ICTman1076](https://github.com/ICTman1076)
 
 ## Exercises:
 **Exercise 01:** create a python program that takes 2 values and then select between sum and sub. Show the result.
