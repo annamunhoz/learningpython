@@ -21,7 +21,7 @@
 To contribute send a PR with some fun exercises to be done in Python.
 
 - [ ] Add the exercise
-- [ ] Add your username with the link to your porofile on GitHub in the apropriate local *(see the list above)*
+- [ ] Add your username with the link to your porofile on GitHub *(see the list above)*
 
 
 Let's have fun and learn!
