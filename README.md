@@ -15,6 +15,13 @@
 
 **Exercise 04:** like exercise 03, but extended to allow the user to input how many dice they'd like to roll. Roll and output each dice, then if the number of dice is greater than 1, output the total of all the dice.
 
-**Exercise 05:** Higher or lower game - the computer chooses a random number between 1 and `n` (you choose what `n` is). The user then can make guesses at what the number is. If their guess is correct, it outputs that they win. If it is incorrect, it outputs whether the target number is higher or lower than their guess.
+**Exercise 05:** higher or lower game - the computer chooses a random number between 1 and `n` (you choose what `n` is). The user then can make guesses at what the number is. If their guess is correct, it outputs that they win. If it is incorrect, it outputs whether the target number is higher or lower than their guess.
+
+## Contribute
+To contribute send a PR with some fun exercises to be done in Python.
+
+- [ ] Add the exercise
+- [ ] Add your username with the link to your porofile on GitHub in the apropriate local *(see the list above)*
+
 
 Let's have fun and learn!
